@@ -64,4 +64,10 @@ public class Restaurant {
         return name;
     }
 
+    //TDD Method
+    public int getTotalOfSelectedItems(List<String> itemList) {
+        int total = 0;
+
+        return total;
+    }
 }
